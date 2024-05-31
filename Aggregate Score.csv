@@ -1,0 +1,285 @@
+﻿Countries,"Approval Process
+ for partners  ","Food Safety
+assessment 
+for partners","Labeling policy 
+for partners","Environmental 
+risk assessment 
+for partners","Commercialization 
+approval for partners",Membership in international agreements for partners ,"Traceability 
+requirement
+for partners ","Marketing and
+Trade for Partners ","Total Score
+Min=0
+Max = 36
+for 
+partners",Countries,Year,Report Links
+PARTNER,AP_partners,FS_partners,LP_partners,ERA_partners,CA_partners,MIA_partners,TR_partners,MT_partners,AS_partners,PARTNER,Year,
+Afghanistan,0,0,0,0,0,0,0,4,4,Afghanistan,,None
+Albania,0,0,0,0,0,0,0,4,4,Albania,,None
+Algeria,3,0,0,0,0,0,0,4,7,Algeria,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Algiers_Algeria_10-20-2019
+Andorra,0,0,0,0,0,0,0,4,4,Andorra,,None
+Angola,0,0,0,0,0,0,0,4,4,Angola,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Luanda_Angola_AO2022-0003.pdf
+Anguilla,0,0,0,0,0,0,0,4,4,Anguilla,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Antigua and 
+Barbuda",0,0,0,0,0,3,0,4,7,"Antigua and 
+Barbuda",2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Argentina,2,2,0,2,2,0,0,4,12,Argentina,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Buenos%20Aires_Argentina_10-20-2021.pdf
+Armenia,0,0,0,0,0,0,0,4,4,Armenia,,None
+Aruba,0,0,0,0,0,0,0,4,4,Aruba,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Australia,2,2,2,2,2,2,0,4,16,Australia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Canberra_Australia_AS2022-0023.pdf
+Austria,3,3,0,3,3,2,0,4,18,Austria,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Vienna_Austria_AU2022-0006.pdf
+Azerbaijan,0,0,0,0,0,4,0,4,8,Azerbaijan,,None
+Bahamas,0,0,0,0,0,0,0,4,4,Bahamas,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Bahrain,0,0,0,0,0,0,0,4,4,Bahrain,2014,https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Agricultural%20Biotechnology%20Annual_Dubai_United%20Arab%20Emirates_5-28-2014.pdf
+Bangladesh,2,3,0,3,3,2,0,4,17,Bangladesh,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dhaka_Bangladesh_BG2022-0026.pdf
+Barbados,0,0,0,0,0,3,0,4,7,Barbados,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Belarus,0,0,0,0,0,0,0,4,4,Belarus,,None
+Belgium,3,3,3,3,3,0,0,4,19,Belgium,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_Belgium_BE2022-0005.pdf
+Belize,0,0,0,0,0,4,0,4,8,Belize,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Benin,0,0,0,0,0,0,0,4,4,Benin,,None
+Bermuda,0,0,0,0,0,0,0,4,4,Bermuda,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Bolivia,0,0,0,0,0,0,0,4,4,Bolivia,,None
+"Bosnia and 
+Herzegovina",0,0,0,0,0,0,0,4,4,"Bosnia and 
+Herzegovina",2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Sarajevo_Bosnia%20and%20Herzegovina_10-20-2021.pdf
+Botswana,0,0,0,0,0,0,0,4,4,Botswana,,None
+Brazil,2,2,2,2,2,2,0,4,16,Brazil,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Brasilia_Brazil_BR2022-0064.pdf
+"British Indian 
+Ocean Territory",0,0,0,0,0,0,0,4,4,"British Indian 
+Ocean Territory",,None
+British Virgin Islands,0,0,0,0,0,0,0,4,4,British Virgin Islands,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Brunei 
+Darussalam",0,0,0,0,0,2,0,4,6,"Brunei 
+Darussalam",,None
+Bulgaria,3,3,0,3,3,2,0,4,18,Bulgaria,2022,https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Agricultural%20Biotechnology%20Annual_Sofia_Bulgaria_11-18-2016.pdf
+Burkina Faso,0,0,2,0,0,2,0,4,8,Burkina Faso,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Burundi,0,0,0,0,0,0,0,4,4,Burundi,,None
+Cabo Verde,0,0,0,0,0,0,0,4,4,Cabo Verde,,None
+Cambodia,0,0,0,0,0,2,0,4,6,Cambodia,,None
+Cameroon,0,0,0,0,0,0,0,4,4,Cameroon,,None
+Canada,2,2,1,2,0,2,0,4,13,Canada,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Ottawa_Canada_CA2022-0041.pdf
+Cayman Islands,0,0,0,0,0,0,0,4,4,Cayman Islands,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Central African
+ Republic",0,0,0,0,0,0,0,4,4,"Central African
+ Republic",,None
+Chad,0,0,0,0,0,0,0,4,4,Chad,,None
+Chile,0,0,0,0,0,0,0,4,4,Chile,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Santiago_Chile_CI2022-0024.pdf
+China,1,0,0,1,1,0,0,4,7,China,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Beijing_China%20-%20People%27s%20Republic%20of_10-20-2021.pdf
+Christmas Islands,0,0,0,0,0,0,0,4,4,Christmas Islands,,None
+Cocos (Keeling) Islands,0,0,0,0,0,0,0,4,4,Cocos (Keeling) Islands,,None
+Colombia,0,0,0,0,0,2,0,4,6,Colombia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Bogota_Colombia_CO2022-0018.pdf
+Comoros,0,0,0,0,0,0,0,4,4,Comoros,,None
+Congo (DROC),0,0,0,0,0,0,0,4,4,Congo (DROC),,None
+Congo (ROC),0,0,0,0,0,0,0,4,4,Congo (ROC),,None
+Cook Islands,0,0,0,0,0,2,0,4,6,Cook Islands,,None
+Costa Rica,0,0,2,0,0,0,3,4,9,Costa Rica,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_San%20Jose_Costa%20Rica_CS2022-0019.pdf
+Cote d'Ivoire,0,0,0,0,0,0,0,4,4,Cote d'Ivoire,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Accra_Cote%20d%27Ivoire_10-20-2021.pdf
+Croatia,3,3,3,3,3,2,3,4,24,Croatia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Zagreb_Croatia_HR2022-0004.pdf
+Cuba,0,0,0,0,0,0,0,4,4,Cuba,,None
+Curacao,0,0,0,0,0,0,0,4,4,Curacao,2020,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2019
+Cyprus,3,3,3,3,3,4,3,4,26,Cyprus,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Czech Republic,3,3,3,3,3,2,3,4,24,Czech Republic,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Prague_Czech%20Republic_EZ2022-0012.pdf
+Denmark,3,3,3,3,3,4,3,4,26,Denmark,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Djibouti,0,0,0,0,0,0,0,4,4,Djibouti,,None
+Dominica,0,0,0,0,0,3,0,4,7,Dominica,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Dominican 
+Republic",0,0,0,0,0,0,0,4,4,"Dominican 
+Republic",2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Santo%20Domingo_Dominican%20Republic_DR2022-0012.pdf
+Ecuador,0,0,0,0,0,4,0,4,8,Ecuador,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Quito_Ecuador_EC2022-0014.pdf
+Egypt,0,0,0,0,0,2,0,4,6,Egypt,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Cairo_Egypt_EG2022-0029.pdf
+El Salvador,0,0,0,0,0,0,0,4,4,El Salvador,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_San%20Salvador_El%20Salvador_ES2022-0009.pdf
+Equatorial Guinea,0,0,0,0,0,2,0,4,6,Equatorial Guinea,,None
+Eritrea,0,0,0,0,0,0,0,4,4,Eritrea,,None
+Estonia,3,3,3,3,3,4,3,4,26,Estonia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Eswatini,0,0,0,0,0,0,0,4,4,Eswatini,,None
+Ethiopia,0,0,0,0,0,0,0,4,4,Ethiopia,2020,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Addis%20Ababa_Ethiopia_10-20-2019
+"Falkland Islands 
+(Islas Malvinas)",0,0,0,0,0,0,0,4,4,"Falkland Islands 
+(Islas Malvinas)",,None
+Faroe Islands,0,0,0,0,0,0,0,4,4,Faroe Islands,,None
+Fiji,0,0,0,0,0,0,0,4,4,Fiji,,None
+Finland,3,3,3,3,3,4,3,4,26,Finland,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+France,3,3,3,3,3,4,3,4,26,France,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+French Guiana,0,0,0,0,0,0,0,4,4,French Guiana,,None
+French Polynesia,0,0,0,0,0,0,0,4,4,French Polynesia,,None
+"French Southern 
+and Antarctic Lands",0,0,0,0,0,0,0,4,4,"French Southern 
+and Antarctic Lands",,None
+Gabon,0,0,0,0,0,0,0,4,4,Gabon,,None
+Gambia,0,0,0,0,0,2,0,4,6,Gambia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Georgia,0,0,0,0,0,0,0,4,4,Georgia,,None
+Germany,3,3,0,3,3,2,0,4,18,Germany,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Berlin_Germany_GM2022-0035.pdf
+Ghana,0,0,0,0,0,2,0,4,6,Ghana,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Accra_Ghana_GH2022-0016.pdf
+Gibraltar,0,0,0,0,0,0,0,4,4,Gibraltar,,None
+Greece,3,3,3,3,3,4,3,4,26,Greece,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Greenland,0,0,0,0,0,0,0,4,4,Greenland,,None
+Grenada,0,0,0,0,0,3,0,4,7,Grenada,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Guadeloupe,0,0,0,0,0,0,0,4,4,Guadeloupe,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Guatemala,0,0,0,0,0,2,0,4,6,Guatemala,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Guatemala%20City_Guatemala_GT2022-0011.pdf
+Guinea,0,0,0,0,0,2,0,4,6,Guinea,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Guinea-Bissau,0,0,0,0,0,0,0,4,4,Guinea-Bissau,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Guyana,0,0,0,0,0,3,0,4,7,Guyana,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Haiti,0,0,0,0,0,0,0,4,4,Haiti,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Heard Island and
+ McDonald Islands",0,0,0,0,0,0,0,4,4,"Heard Island and
+ McDonald Islands",,None
+"Holy See
+ (Vatican City)",0,0,0,0,0,0,0,4,4,"Holy See
+ (Vatican City)",,None
+Honduras,0,0,0,0,0,0,0,4,4,Honduras,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Tegucigalpa_Honduras_HO2022-0010.pdf
+Hong Kong,0,0,0,2,0,0,0,4,6,Hong Kong,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Hong%20Kong_Hong%20Kong_HK2022-0081.pdf
+Hungary,3,3,0,3,3,2,0,4,18,Hungary,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Budapest_Hungary_HU2022-0004.pdf
+Iceland,0,0,0,0,0,0,0,4,4,Iceland,,None
+India,0,0,0,0,0,0,0,4,4,India,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_New%20Delhi_India_IN2022-0087.pdf
+Indonesia,0,0,0,0,0,4,0,4,8,Indonesia,2022,https://www.fas.usda.gov/data/indonesia-agricultural-biotechnology-annual-6
+Iran,0,0,0,0,0,0,0,4,4,Iran,,None
+Iraq,0,0,0,0,0,0,0,4,4,Iraq,,None
+Ireland,3,3,3,3,3,4,3,4,26,Ireland,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Israel,0,0,0,0,0,2,0,4,6,Israel,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Tel%20Aviv_Israel_IS2022-0011.pdf
+Italy,3,3,3,3,3,4,3,4,26,Italy,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Jamaica,0,0,0,0,0,3,0,4,7,Jamaica,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Kingston_Jamaica_JM2022-0007.pdf
+Japan,3,2,2,2,0,3,0,4,16,Japan,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Tokyo_Japan_JA2022-0092.pdf
+Jordan,1,0,0,0,0,0,0,4,5,Jordan,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Amman_Jordan_JO2022-0001.pdf
+Kazakhstan,0,0,0,0,0,0,0,4,4,Kazakhstan,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Astana%28Nur-Sultan%29_Kazakhstan%20-%20Republic%20of_KZ2022-0020.pdf
+Kenya,0,0,0,0,0,0,0,4,4,Kenya,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Nairobi_Kenya_KE2022-0010.pdf
+Kiribati,0,0,0,0,0,0,0,4,4,Kiribati,,None
+Kosovo,0,0,0,0,0,0,0,4,4,Kosovo,,None
+Kuwait,4,4,4,4,4,0,4,8,32,Kuwait,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Riyadh_Saudi%20Arabia_SA2022-0015.pdf
+Kyrgyzstan,0,0,0,0,0,0,0,4,4,Kyrgyzstan,,None
+Laos,0,0,0,0,0,0,0,4,4,Laos,,None
+Latvia,3,3,3,3,3,4,3,4,26,Latvia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Lebanon,0,0,0,0,0,0,0,4,4,Lebanon,,None
+Lesotho,0,0,0,0,0,0,0,4,4,Lesotho,,None
+Liberia,0,0,0,0,0,0,0,4,4,Liberia,,None
+Libya,0,0,0,0,0,0,0,4,4,Libya,,None
+Liechtenstein,0,0,0,0,0,0,0,4,4,Liechtenstein,,None
+Lithuania,3,3,3,3,3,4,3,4,26,Lithuania,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Luxembourg,3,3,3,3,3,4,3,4,26,Luxembourg,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Macao,0,0,0,0,0,0,0,4,4,Macao,,None
+Madagascar,0,0,0,0,0,0,0,4,4,Madagascar,,None
+Malawi,0,0,0,0,0,0,0,4,4,Malawi,,None
+Malaysia,0,0,0,0,0,2,0,4,6,Malaysia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Kuala%20Lumpur_Malaysia_MY2022-0014.pdf
+Maldives,0,0,0,0,0,0,0,4,4,Maldives,,None
+Mali,0,0,2,0,0,2,0,4,8,Mali,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Malta,3,3,3,3,3,4,3,4,26,Malta,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Marshall Islands,0,0,0,0,0,2,0,4,6,Marshall Islands,,None
+Martinique,0,0,0,0,0,0,0,4,4,Martinique,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Mauritania,0,0,0,0,0,2,0,4,6,Mauritania,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Mauritius,0,0,0,0,0,0,0,4,4,Mauritius,,None
+Mayotte,0,0,0,0,0,0,0,4,4,Mayotte,,None
+Mexico,2,2,0,2,0,2,0,4,12,Mexico,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Mexico%20City_Mexico_MX2022-0070.pdf
+Micronesia,0,0,0,0,0,0,0,4,4,Micronesia,,None
+Moldova,0,0,0,0,0,0,0,4,4,Moldova,,None
+Monaco,0,0,0,0,0,0,0,4,4,Monaco,,None
+Mongolia,0,0,0,0,0,0,0,4,4,Mongolia,,None
+Montenegro,0,0,0,0,0,0,0,4,4,Montenegro,,None
+Montserrat,0,0,0,0,0,0,0,4,4,Montserrat,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Morocco,0,0,0,0,0,2,0,4,6,Morocco,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Rabat_Morocco_MO2022-0024.pdf
+Mozambique,0,0,0,0,0,0,0,4,4,Mozambique,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Maputo_Mozambique_MZ2022-0003.pdf
+Myanmar,0,0,0,0,0,0,0,4,4,Myanmar,2022,https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Agricultural%20Biotechnology%20Annual_Rangoon_Burma%20-%20Union%20of_1-27-2017.pdf
+Namibia,0,0,0,0,0,0,0,4,4,Namibia,,None
+Nauru,0,0,0,0,0,0,0,4,4,Nauru,,None
+Nepal,0,0,0,0,0,2,0,4,6,Nepal,,None
+Netherlands,3,3,3,3,3,2,3,4,24,Netherlands,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural+Biotechnology+Annual_The+Hague_Netherlands_NL2022-0056.pdf
+Netherlands Antilles,0,0,0,0,0,0,0,4,4,Netherlands Antilles,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+New Caledonia,0,0,0,0,0,0,0,4,4,New Caledonia,,None
+New Zealand,3,3,2,3,3,4,0,4,22,New Zealand,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Wellington_New%20Zealand_NZ2022-0013.pdf
+Nicaragua,0,0,0,0,0,0,0,4,4,Nicaragua,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Managua_Nicaragua_NU2022-0011.pdf
+Niger,0,0,0,0,0,0,0,4,4,Niger,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Nigeria,0,0,0,0,0,0,0,4,4,Nigeria,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Lagos_Nigeria_NI2022-0010.pdf
+Norfolk Island,0,0,0,0,0,0,0,4,4,Norfolk Island,,None
+North Korea,0,0,0,0,0,0,0,4,4,North Korea,,None
+North Macedonia,0,0,0,0,0,0,0,4,4,North Macedonia,,None
+Norway,0,0,0,0,0,0,0,4,4,Norway,,None
+Oman,4,4,4,4,4,0,4,8,32,Oman,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Riyadh_Saudi%20Arabia_SA2022-0015.pdf
+Pakistan,0,0,0,0,0,2,0,4,6,Pakistan,2018,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Jakarta_Indonesia_ID2022-0029.pdf
+Palau,0,0,0,0,0,0,0,4,4,Palau,,None
+Panama,0,0,0,0,0,0,0,4,4,Panama,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Panama%20City_Panama_PN2022-0008.pdf
+Papua New Guinea,0,0,0,0,0,0,0,4,4,Papua New Guinea,,None
+Paraguay,0,0,0,0,0,0,0,4,4,Paraguay,,None
+Peru,0,0,0,0,0,0,0,4,4,Peru,2022,https://www.fas.usda.gov/data/peru-agricultural-biotechnology-annual-6
+Philippines,0,0,0,0,0,2,0,4,6,Philippines,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Manila_Philippines_10-20-2021.pdf
+Pitcairn Islands,0,0,0,0,0,0,0,4,4,Pitcairn Islands,,None
+Poland,3,3,0,3,3,0,0,4,16,Poland,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Portugal,3,3,3,3,3,2,3,4,24,Portugal,2022,https://apps.fas.usda.gov/newgainapi/api/report/downloadreportbyfilename?filename=Agricultural%20Biotechnology%20Annual%202017_Madrid_Portugal_11-6-2017.pdf
+Qatar,4,4,4,4,4,0,4,8,32,Qatar,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Riyadh_Saudi%20Arabia_SA2022-0015.pdf
+Reunion,0,0,0,0,0,0,0,4,4,Reunion,,None
+Romania,3,3,3,3,3,2,3,4,24,Romania,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Bucharest_Romania_RO2022-0010.pdf
+Russia,0,0,0,0,0,0,0,4,4,Russia,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Moscow_Russian%20Federation_10-20-2020.pdf
+Rwanda,0,0,0,0,0,0,0,4,4,Rwanda,,None
+Saint Helena,0,0,0,0,0,0,0,4,4,Saint Helena,,None
+"Saint Kitts and
+ Nevis",0,0,0,0,0,3,0,4,7,"Saint Kitts and
+ Nevis",2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Saint Lucia,0,0,0,0,0,4,0,4,8,Saint Lucia,2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Saint Pierre and 
+Miquelon",0,0,0,0,0,0,0,4,4,"Saint Pierre and 
+Miquelon",,None
+"Saint Vincent and
+ the Grenadines",0,0,0,0,0,3,0,4,7,"Saint Vincent and
+ the Grenadines",2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+"Samoa 
+(Western Samoa)",0,0,0,0,0,0,0,4,4,"Samoa 
+(Western Samoa)",,None
+San Marino,0,0,0,0,0,0,0,4,4,San Marino,,None
+"Sao Tome and
+ Principe",0,0,0,0,0,0,0,4,4,"Sao Tome and
+ Principe",,None
+Saudi Arabia,4,4,4,4,4,0,4,8,32,Saudi Arabia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Riyadh_Saudi%20Arabia_SA2022-0015.pdf
+Senegal,0,0,2,0,0,2,0,4,8,Senegal,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Dakar_Senegal_SG2022-0013.pdf
+Serbia,0,0,0,0,0,2,0,4,6,Serbia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Belgrade_Serbia_RB2022-0009.pdf
+Seychelles,0,0,0,0,0,0,0,4,4,Seychelles,,None
+Sierra Leone,0,0,0,0,0,4,0,4,8,Sierra Leone,,None
+Singapore,0,0,0,0,0,2,0,4,6,Singapore,2020,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Singapore_Singapore_10-20-2020
+Sint Maarten,0,0,0,0,0,0,0,4,4,Sint Maarten,,None
+Slovakia,3,3,3,3,3,4,3,4,26,Slovakia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Slovenia,3,3,3,3,3,4,3,4,26,Slovenia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Solomon Islands,0,0,0,0,0,4,0,4,8,Solomon Islands,,None
+Somalia,0,0,0,0,0,0,0,4,4,Somalia,,None
+South Africa,2,0,0,3,0,2,0,4,11,South Africa,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Pretoria_South%20Africa%20-%20Republic%20of_SF2022-0033.pdf
+South Korea,2,0,0,0,0,2,0,4,8,South Korea,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Seoul_Korea%20-%20Republic%20of_KS2022-0024.pdf
+South Sudan,0,0,0,0,0,2,0,4,6,South Sudan,,None
+Spain,3,3,3,3,3,4,3,4,26,Spain,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Brussels%20USEU_European%20Union_E42022-0069.pdf
+Sri Lanka,0,0,0,0,0,2,0,4,6,Sri Lanka,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Colombo_Sri%20Lanka_CE2022-0018.pdf
+Sudan,0,0,0,0,0,0,0,4,4,Sudan,,None
+Suriname,0,0,0,0,0,0,0,4,4,Suriname,,None
+"Svalbard and 
+Jan Mayen",0,0,0,0,0,0,0,4,4,"Svalbard and 
+Jan Mayen",,None
+Sweden,3,3,3,3,3,2,3,4,24,Sweden,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Report%20-%20Sweden_The%20Hague_Sweden_02-06-2020
+Switzerland,0,0,0,0,0,0,0,4,4,Switzerland,,None
+Syria,0,0,0,0,0,0,0,4,4,Syria,,None
+Taiwan,2,0,3,0,0,0,3,4,12,Taiwan,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Taipei_Taiwan_TW2022-0056.pdf
+Tajikistan,0,0,0,0,0,0,0,4,4,Tajikistan,,None
+Tanzania,0,0,2,0,0,0,0,4,6,Tanzania,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Dar%20Es%20Salaam_Tanzania_TZ2022-0005.pdf
+Thailand,2,3,2,0,2,0,2,4,15,Thailand,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Bangkok_Thailand_TH2022-0071.pdf
+Timor-Leste,0,0,0,0,0,2,0,4,6,Timor-Leste,,None
+Togo,0,0,0,0,0,0,0,4,4,Togo,,None
+Tokelau,0,0,0,0,0,0,0,4,4,Tokelau,,None
+Tonga,0,0,0,0,0,0,0,4,4,Tonga,,None
+"Trinidad and 
+Tobago",0,0,0,0,0,0,0,4,4,"Trinidad and 
+Tobago",2021,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Miami%20ATO_Caribbean%20Basin_10-20-2021
+Tunisia,0,0,0,0,0,2,0,4,6,Tunisia,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Tunis_Tunisia_TS2022-0013.pdf
+Turkey,0,0,3,0,0,0,3,4,10,Turkey,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Ankara_Turkey_TU2022-0047.pdf
+Turkmenistan,0,0,0,0,0,0,0,4,4,Turkmenistan,,None
+"Turks and 
+Caicos Islands",0,0,0,0,0,0,0,4,4,"Turks and 
+Caicos Islands",,None
+Tuvalu,0,0,0,0,0,0,0,4,4,Tuvalu,,None
+Uganda,0,0,0,0,0,0,0,4,4,Uganda,,None
+Ukraine,0,0,0,0,0,0,0,4,4,Ukraine,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Biotechnology%20and%20Other%20New%20Production%20Technologies%20Annual_Kyiv_Ukraine_UP2022-0078.pdf
+"United Arab
+ Emirates",4,4,4,4,4,0,4,8,32,"United Arab
+ Emirates",2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Riyadh_Saudi%20Arabia_SA2022-0015.pdf
+United Kingdom,3,3,3,3,3,3,3,4,25,United Kingdom,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_London_United%20Kingdom_UK2022-0033.pdf
+Uruguay,0,0,0,0,0,0,0,4,4,Uruguay,,None
+Uzbekistan,0,0,0,0,0,0,0,4,4,Uzbekistan,,None
+Vanuatu,0,0,0,0,0,0,0,4,4,Vanuatu,,None
+Venezuela,0,0,0,0,0,0,0,4,4,Venezuela,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Caracas_Venezuela_VE2022-0031.pdf
+Vietnam,0,0,0,0,0,0,0,4,4,Vietnam,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Hanoi_Vietnam_VM2022-0073.pdf
+Wallis and Futuna,0,0,0,0,0,0,0,4,4,Wallis and Futuna,,None
+Yemen,4,4,4,4,4,0,4,8,32,Yemen,2022,https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Agricultural%20Biotechnology%20Annual_Riyadh_Saudi%20Arabia_SA2022-0015.pdf
+Yugoslavia,0,0,0,0,0,0,0,4,4,Yugoslavia,,None
+Zambia,0,0,0,0,0,0,0,4,4,Zambia,,None
+Zimbabwe,0,0,0,0,0,0,0,4,4,Zimbabwe,, None
